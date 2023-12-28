@@ -3,6 +3,7 @@
 I’m Alex, Frontend Web Developer.
 
 Portfolio: https://shalda.dev
+
 Email: shalda.web@gmail.com
 
 Technologies I used in my projects:
